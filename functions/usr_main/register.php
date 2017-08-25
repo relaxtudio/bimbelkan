@@ -8,6 +8,5 @@ class Register {
 
 	function print(arg) {
 		print(arg);
-		
 	}
 }
